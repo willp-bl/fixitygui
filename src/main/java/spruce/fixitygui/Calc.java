@@ -13,8 +13,6 @@ import java.util.Map;
 
 import org.apache.commons.codec.digest.DigestUtils;
 
-import com.sun.xml.internal.ws.api.pipe.Codecs;
-
 import javafx.scene.control.ProgressBar;
 
 public class Calc {
